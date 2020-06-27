@@ -1,0 +1,13 @@
+npm init
+For Dependencies
+npm install express express-validator bcryptjs config gravator jsonwebtoken mongoose request 
+
+For Dev Dependencies
+npm i -D nodemon concurrently
+
+
+For Client Side
+npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment uuid
+
+
+https://dev.to/llorentegerman/building-a-ui-from-scratch-responsive-sidebar-and-header-443g

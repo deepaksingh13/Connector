@@ -1,0 +1,4 @@
+{
+    "mongoURL" : "mongodb+srv://deepak1303:deepak1303@socialnetwork-rzosr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
